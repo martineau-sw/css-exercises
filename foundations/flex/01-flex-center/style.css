@@ -11,6 +11,7 @@
 .box {
   flex: none;
   margin: auto;
+  
   background: palevioletred;
   font-weight: bold;
   text-align: center;
